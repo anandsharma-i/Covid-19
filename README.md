@@ -6,3 +6,4 @@ Whether that person should consult a doctor for minor `flu/cold` or has to go fo
 
 # : :SYMPTOMS-CHART: :
 ![Click Me](https://www.childrensmn.org/assets/img/chart-of-symptoms.jpg)
+![alt text](https://github.com/[anandsharma-i]/[Covid-19]/blob/[master]/symptoms.png?raw=true)
