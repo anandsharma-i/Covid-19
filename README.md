@@ -6,8 +6,8 @@ Whether that person should consult a doctor for minor `flu/cold` or has to go fo
 
 # : :SYMPTOMS-CHART: :
 
-![Click Me](https://github.com/anandsharma-i/Covid-19/blob/master/symptoms.png?raw=true)
+![Click Me](https://media.healthdirect.org.au/images/inline/original/covid-cold-flu-symptoms-bd24a5.png)
+
+***Made with*** :white_heart: ***in JAVA.***
 
 
-
-![Screenshot](symptoms.png)
